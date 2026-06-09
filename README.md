@@ -1,5 +1,3 @@
-# HMA_Awan
-
 # HMA's References & Resources
 
 # Contents
